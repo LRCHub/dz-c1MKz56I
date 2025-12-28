@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Secret Garden",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T18:11:46.994377Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Secret Garden",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/01_Secret_Garden_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Secret Garden",
+      "artist": "Me & My",
+      "has_synced": true,
+      "path": "select/02_Secret_Garden_Me_&_My.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Secret Garden",
+      "artist": "Marsheaux",
+      "has_synced": false,
+      "path": "select/03_My_Secret_Garden_Marsheaux.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Excerpt From: My Secret Garden",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/04_Excerpt_From__My_Secret_Garden_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Secret Garden",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/05_My_Secret_Garden_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Secret Garden",
+      "artist": "The Divine Comedy",
+      "has_synced": false,
+      "path": "select/06_Secret_Garden_The_Divine_Comedy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Excerpt From - My Secret Garden",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/07_Excerpt_From_-_My_Secret_Garden_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Our Secret Garden",
+      "artist": "Peter Murphy",
+      "has_synced": true,
+      "path": "select/08_Our_Secret_Garden_Peter_Murphy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Secret Garden",
+      "artist": "T’Pau",
+      "has_synced": true,
+      "path": "select/09_Secret_Garden_T’Pau.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Secret Garden",
+      "artist": "T'Pau",
+      "has_synced": false,
+      "path": "select/10_Secret_Garden_T'Pau.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Secret Garden",
+      "artist": "Patrick Wolf",
+      "has_synced": false,
+      "path": "select/11_Secret_Garden_Patrick_Wolf.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Secret Garden",
+      "artist": "Angra",
+      "has_synced": true,
+      "path": "select/12_Secret_Garden_Angra.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Secret Garden",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/13_Secret_Garden_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Secret Garden",
+      "artist": "Snow Ghosts",
+      "has_synced": true,
+      "path": "select/14_Secret_Garden_Snow_Ghosts.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Excerpt from My Secret Garden",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/15_Excerpt_from_My_Secret_Garden_Depeche_Mode.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Secret Garden",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Secret_Garden_BE_FIRST.txt"
+    }
+  ]
+}
